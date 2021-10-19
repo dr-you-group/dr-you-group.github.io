@@ -16,3 +16,8 @@ Seng Chan You is a medical doctor who majored in internal medicine from Severanc
 ### Yeonchan Seong, MA
 Major: Health Administration, Sociology 
 Interests: Social Network Analysis, Machine Learning, Deep Learning
+
+![jay](https://user-images.githubusercontent.com/92774958/137850326-820d4eae-8148-4a67-9a4b-559b7e5c68b2.png)
+### Jaehyun Shin, MFA
+Major: Visual Communication Design
+Interests: Service Design, BX Design
