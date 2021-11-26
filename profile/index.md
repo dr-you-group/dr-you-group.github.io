@@ -27,3 +27,8 @@ Interests: Service Design, BX Design
 ### Sujeong EOM, BPH  
 Major: Public Health in Health Education and Management  
 Interests: AI, Machine Learning, Deep Learning, Data Analysis, Precision Medicine  
+
+![ybjung_profile](https://user-images.githubusercontent.com/89363626/138007233-097a74bc-e395-4882-a76f-c15050d59425.jpg)
+### Yebin Jung, BPH
+Major: Public Health in Health Convergence   
+Interests: Public Health, Health Informatics, AI, Deep Learning 
