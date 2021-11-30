@@ -32,3 +32,9 @@ Interests: AI, Machine Learning, Deep Learning, Data Analysis, Precision Medicin
 ### Yebin Jung, BPH
 Major: Public Health in Health Convergence   
 Interests: Public Health, Health Informatics, AI, Deep Learning 
+
+![sbk](https://user-images.githubusercontent.com/83568786/143965209-eb9183aa-3719-4f1c-ae45-a47c23df699f.jpg)
+### Subin Kim, BPH, BS  
+Major: Public Health in Health Convergence, Statistics  
+Interests: Data Analysis, Machine Learning, Deep Learning  
+
