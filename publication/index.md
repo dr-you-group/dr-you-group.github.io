@@ -10,6 +10,9 @@ order: 4
 Dr. You's research group members are in bold.
 First authors among Dr. You's research group members are indicated by asterisk. Senior or corresponding authors among Dr. You's research group are underlined. The impact factors are calculated based on a year prior to the publication.
 
+### 2022
+- **Seng Chan You** * , Harlan M. Krumholz. “The Evolution of Evidence-Based Medicine: When the Magic of the Randomized Clinical Trial Meets Real-World Data” (Editorial) *Circulation (IF 29.69)*, January 11, 2022;145:107–10. https://doi.org/10.1161/CIRCULATIONAHA.121.057931.
+
 ### 2021
 - **Seng Chan You** * , Harlan M. Krumholz, Marc A. Suchard, Martijn J. Schuemie, George Hripcsak, RuiJun Chen, Steven Shea, et al. “Comprehensive Comparative Effectiveness and Safety of First-Line β-Blocker Monotherapy in Hypertensive Patients: A Large-Scale Multicenter Observational Study.” *Hypertension (IF 10.19)*, March 29, 2021, HYPERTENSIONAHA12016402. https://doi.org/10.1161/HYPERTENSIONAHA.120.16402.
 - Chungsoo Kim, **Seng Chan You** * , Jenna M. Reps, Jae Youn Cheong, and Rae Woong Park. “Machine-Learning Model to Predict the Cause of Death Using a Stacking Ensemble Method for Observational Data.” *Journal of the American Medical Informatics Association(IF 4.11)*. June, 2021. https://doi.org/10.1093/jamia/ocaa277.
