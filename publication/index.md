@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: post
 main: true
 title: Publications
 permalink: /publications/

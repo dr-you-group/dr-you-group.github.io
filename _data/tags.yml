@@ -6,6 +6,10 @@ publication:
   name: research
   description: Posts related with scientific publications
   cover: False
+StudyOps:
+  name: ResearchOps
+  description: Posts describing how to build reproducible research environment
+  cover: False
 tech:
   name: technology
   description: Something related with technology and infrastructure for research

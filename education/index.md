@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: post
 main: true
 title: Education
 order: 5
