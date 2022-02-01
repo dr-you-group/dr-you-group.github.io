@@ -12,6 +12,7 @@ First authors among Dr. You's research group members are indicated by asterisk. 
 
 ### 2022
 - **Seng Chan You** * , Harlan M. Krumholz. “The Evolution of Evidence-Based Medicine: When the Magic of the Randomized Clinical Trial Meets Real-World Data” (Editorial) *Circulation (IF 29.69)*, January 11, 2022;145:107–10. https://doi.org/10.1161/CIRCULATIONAHA.121.057931.
+- ChulHyoung Park, **Seng Chan You** * , Hokyun Jeon, Chang Won Jeong, Jin Wook Choi, and Rae Woong Park. “Development and Validation of the Radiology Common Data Model (R-CDM) for the International Standardization of Medical Imaging Data.” *Yonsei Medical Journal (IF 2.76)*, January 1, 2022: S74-0. https://doi.org/10.3349/ymj.2022.63.S74.
 
 ### 2021
 - **Seng Chan You** * , Harlan M. Krumholz, Marc A. Suchard, Martijn J. Schuemie, George Hripcsak, RuiJun Chen, Steven Shea, et al. “Comprehensive Comparative Effectiveness and Safety of First-Line β-Blocker Monotherapy in Hypertensive Patients: A Large-Scale Multicenter Observational Study.” *Hypertension (IF 10.19)*, March 29, 2021, HYPERTENSIONAHA12016402. https://doi.org/10.1161/HYPERTENSIONAHA.120.16402.
