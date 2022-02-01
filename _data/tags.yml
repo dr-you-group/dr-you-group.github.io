@@ -1,0 +1,12 @@
+research:
+  name: research
+  description: Posts related with research
+  cover: False
+publication:
+  name: research
+  description: Posts related with scientific publications
+  cover: False
+tech:
+  name: technology
+  description: Something related with technology and infrastructure for research
+  cover: False
