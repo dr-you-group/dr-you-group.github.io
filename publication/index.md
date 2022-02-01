@@ -12,6 +12,7 @@ First authors among Dr. You's research group members are indicated by asterisk. 
 
 ### 2022
 - **Seng Chan You** * , Harlan M. Krumholz. “The Evolution of Evidence-Based Medicine: When the Magic of the Randomized Clinical Trial Meets Real-World Data” (Editorial) *Circulation (IF 29.69)*, January 11, 2022;145:107–10. https://doi.org/10.1161/CIRCULATIONAHA.121.057931.
+**[Related Post](/2022/02/01/Pub-CirEditorial.html)**
 - ChulHyoung Park, **Seng Chan You** * , Hokyun Jeon, Chang Won Jeong, Jin Wook Choi, and Rae Woong Park. “Development and Validation of the Radiology Common Data Model (R-CDM) for the International Standardization of Medical Imaging Data.” *Yonsei Medical Journal (IF 2.76)*, January 1, 2022: S74-0. https://doi.org/10.3349/ymj.2022.63.S74.
 
 ### 2021
@@ -29,7 +30,7 @@ First authors among Dr. You's research group members are indicated by asterisk. 
 ### 2020
 - **Seng Chan You** * , Yeunsook Rho, Behnood Bikdeli, Jiwoo Kim, Anastasios Siapos, James Weaver, Ajit Londhe, et al. “Association of Ticagrelor vs Clopidogrel With Net Adverse Clinical Events in Patients With Acute Coronary Syndrome Undergoing Percutaneous Coronary Intervention.” *JAMA(IF 45.54)* 324, no. 16 (October 27, 2020): 1640–50. https://doi.org/10.1001/jama.2020.16167.
 - Edward Burn, **Seng Chan You** * , Anthony G. Sena, Kristin Kostka, Hamed Abedtash, Maria Tereza F. Abrahão, Amanda Alberga, et al. “Deep Phenotyping of 34,128 Adult Patients Hospitalised with COVID-19 in an International Network Study.” *Nature Communications(IF 12.12)* 11, no. 1 (October 6, 2020): 5009. https://doi.org/10.1038/s41467-020-18849-z.
-- Suho Jin, Kristin Kostka, Jose D. Posada, Yeesuk Kim, Seung In Seo, Dong Yun Lee, Nigam H. Shah, <u>**Seng Chan You**</u> “Prediction of Major Depressive Disorder Following Beta-Blocker Therapy in Patients with Cardiovascular Diseases.” *Journal of Personalized Medicine(IF 4.43)* 10, no. 4 (December 2020): 288. https://doi.org/10.3390/jpm10040288.
+- Suho Jin, Kristin Kostka, Jose D. Posada, Yeesuk Kim, Seung In Seo, Dong Yun Lee, Nigam H. Shah, **<u>Seng Chan You</u>** “Prediction of Major Depressive Disorder Following Beta-Blocker Therapy in Patients with Cardiovascular Diseases.” *Journal of Personalized Medicine(IF 4.43)* 10, no. 4 (December 2020): 288. https://doi.org/10.3390/jpm10040288.
 - Jaehyeong Cho, **Seng Chan You** * , Seongwon Lee, DongSu Park, Bumhee Park, George Hripcsak, and Rae Woong Park. “Application of Epidemiological Geographic Information System: An Open-Source Spatial Analysis Tool Based on the OMOP Common Data Model.” *International Journal of Environmental Research and Public Health* 17, no. 21 (January 2020): 7824. https://doi.org/10.3390/ijerph17217824.
 - Morales, Daniel R., Mitchell M. Conover, **Seng Chan You**, Nicole Pratt, Kristin Kostka, Talita Duarte-Salles, Sergio Fernández-Bertolín, et al. “Renin–Angiotensin System Blockers and Susceptibility to COVID-19: An International, Open Science, Cohort Analysis.” *The Lancet Digital Health (IF 23.01)* (December 17, 2020). https://doi.org/10.1016/S2589-7500(20)30289-2.
 - George Hripcsak, Marc A. Suchard, Steven Shea, RuiJun Chen, **Seng Chan You**, Nicole Pratt, David Madigan, Harlan M.
