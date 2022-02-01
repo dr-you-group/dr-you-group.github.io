@@ -2,7 +2,7 @@
 layout: post
 title: "Publication in 2022: The Evolution of Evidence-Based Medicine"
 tags: research
-date: 2021-02-01
+date: 2022-02-01
 author: Dr.You
 ---
 
