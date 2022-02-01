@@ -15,11 +15,17 @@ In Mac
 #### 명령어 설명
 
 `docker run` : docker 실행
+
 `jekyll/jekyll:4.0` : Blog 개발 시 사용한 도커 허브 이미지 (Jekyll 4.0 version)
+
 `--volume="[directory]:/srv/jekyll"` : 로컬과 Jekyll 컨테이너 사이에 공유할 폴더 지정. 로컬에서는 [directory] 폴더, 지킬 컨테이너에서는 /srv/jekyll 의 폴더를 동기화하여 사용한다. 보통은 https://dr-you-group.github.io/ github 을 clone 한 후 이후 작업하는 github repo 를 입력한다. Mac의 경우 docker 앱에서 공유할 폴더를 추가로 지정하는 것이 필요했다(docker app>Preferences>Resources>FILE SHARING)
+
 `-p 4000:4000` : 컨테이너의 특정 포트를 외부로 노출하는 명령어로 -p <호스트 포트="">:<컨테이너 포트="">의 형식으로 이루어진다. 지킬 컨테이너에서 serve 한 결과를 로컬 포트에서 확인할 수 있다. 4000:3999 이런 식으로 지정도 가능하다.
+
 `--rm` : docker container 실행이 끝나면 container 삭제
+
 `-it` : Interactive terminal option으로 결과를 터미널에 출력
+
 `/bin/bash` : bash로 실행한다.
 
 위와 같이 명령어 실행 후 docker container 에서 하기 명령어 실행하여 blog를 로컬에 deploy
