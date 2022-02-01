@@ -10,9 +10,10 @@ author: Dr.You
 
 In Mac
 
-`$docker run jekyll/jekyll:4000 --volume="[directory]:/srv/jekyll" -p 4000:4000 --rm -it /bin/bash`
+`$ docker run jekyll/jekyll:4000 --volume="[directory]:/srv/jekyll" -p 4000:4000 --rm -it /bin/bash`
 
-*명령어 설명*
+#### 명령어 설명
+
 `docker run` : docker 실행
 `jekyll/jekyll:4.0` : Blog 개발 시 사용한 도커 허브 이미지 (Jekyll 4.0 version)
 `--volume="[directory]:/srv/jekyll"` : 로컬과 Jekyll 컨테이너 사이에 공유할 폴더 지정. 로컬에서는 [directory] 폴더, 지킬 컨테이너에서는 /srv/jekyll 의 폴더를 동기화하여 사용한다. 보통은 https://dr-you-group.github.io/ github 을 clone 한 후 이후 작업하는 github repo 를 입력한다. Mac의 경우 docker 앱에서 공유할 폴더를 추가로 지정하는 것이 필요했다(docker app>Preferences>Resources>FILE SHARING)
@@ -23,7 +24,7 @@ In Mac
 
 위와 같이 명령어 실행 후 docker container 에서 하기 명령어 실행하여 blog를 로컬에 deploy
 
-`$jekyll serve`
+`$ jekyll serve`
 
 이후 로컬에서 `http://0.0.0.0:4000/` 으로 접속하여 확인 가능.
 파일 변경 시 바로바로 웹페이지 새로고침을 이용하여 변경 내역을 확인할 수 있다.
