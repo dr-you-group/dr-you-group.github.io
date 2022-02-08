@@ -38,6 +38,10 @@ Interests: Data Analysis, Machine Learning, Deep Learning
 Major: History of Science   
 Interests: history, storytelling, communication
 
+![236X315](https://user-images.githubusercontent.com/97265478/152456448-b2bf07f6-5afe-4728-b7ac-adb493a36e7b.jpg)
+#### Yongjae Lee, MA
+Major: Economics
+Interests: Health Economics, Behavior Economics, Deep Learning, Machine Learning
 
 ## Alumni
 
