@@ -10,7 +10,7 @@ author: Dr.You
 
 In Mac
 
-`$ docker run jekyll/jekyll:4000 --volume="[directory]:/srv/jekyll" -p 4000:4000 --rm -it /bin/bash`
+`$ docker run jekyll/jekyll:4.0 --volume="[directory]:/srv/jekyll" -p 4000:4000 --rm -it /bin/bash`
 
 #### 명령어 설명
 
