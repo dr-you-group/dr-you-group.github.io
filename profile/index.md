@@ -33,7 +33,7 @@ Interests: Public Health, Health Informatics, AI, Deep Learning
 Major: Public Health in Health Convergence, Statistics  
 Interests: Data Analysis, Machine Learning, Deep Learning  
 
-![profile](https://user-images.githubusercontent.com/96851024/152471055-463c5215-f382-47d4-8f1c-a54c03e474c5.jpg)
+![profile](https://user-images.githubusercontent.com/96851024/157778784-d2aa9e37-211d-413f-8a7c-fd6c5438ef47.jpg)
 #### SeungHyun Chung, BA, MS 
 Major: History of Science   
 Interests: history, storytelling, communication
