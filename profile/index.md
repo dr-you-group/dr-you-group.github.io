@@ -23,11 +23,6 @@ Interests: Service Design, BX Design
 Major: Public Health in Health Education and Management  
 Interests: AI, Machine Learning, Deep Learning, Data Analysis, Precision Medicine  
 
-![ybjung_profile](https://user-images.githubusercontent.com/89363626/138007233-097a74bc-e395-4882-a76f-c15050d59425.jpg)
-#### Yebin Jung, BPH
-Major: Public Health in Health Convergence   
-Interests: Public Health, Health Informatics, AI, Deep Learning
-
 ![sbk](https://user-images.githubusercontent.com/83568786/143965209-eb9183aa-3719-4f1c-ae45-a47c23df699f.jpg)
 #### Subin Kim, BPH, BS  
 Major: Public Health in Health Convergence, Statistics  
@@ -49,3 +44,8 @@ Interests: Health Economics, Behavior Economics, Deep Learning, Machine Learning
 #### Yeonchan Seong, MA
 Major: Health Administration, Sociology   
 Interests: Social Network Analysis, Machine Learning, Deep Learning
+
+![ybjung_profile](https://user-images.githubusercontent.com/89363626/138007233-097a74bc-e395-4882-a76f-c15050d59425.jpg)
+#### Yebin Jung, BPH
+Major: Public Health in Health Convergence   
+Interests: Public Health, Health Informatics, AI, Deep Learning
