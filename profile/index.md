@@ -38,7 +38,6 @@ Interests: history, storytelling, communication
 Major: Economics  
 Interests: Health Economics, Behavior Economics, Deep Learning, Machine Learning
 
-## Members 
 ![profile_ycs_resize](https://user-images.githubusercontent.com/101778510/161868950-cb1d807e-31ed-42a5-8b93-8447b30a74cb.jpg)
 ### Yijoo Park
 Major: Health Administration and Management   
