@@ -46,7 +46,7 @@ Interests: Data analysis, Public Health
 ![Seojeong_2019_width236](https://user-images.githubusercontent.com/34934336/170898677-5b8c50de-78fd-493b-842a-f1c16b6ff8bd.jpg)
 ### Seojeong Shin, PhD
 Major: Biomedical Informatics  
-Interest: Oncology Study, Common Data Model, Medical Imaging, Deep Learning  
+Interest: Oncology Study, Common Data Model(CDM), Medical Imaging, Artificial Intelligence  
 
 
 ## Alumni
