@@ -49,9 +49,7 @@ Major: Biomedical Informatics
 Interest: Oncology Study, Common Data Model(CDM), Medical Imaging, Artificial Intelligence  
 
 ![Jihyeshin](https://user-images.githubusercontent.com/101371789/170900696-045bc78d-1296-451c-9e61-eb628e778aee.jpg)
-### Jihye Shin, MS
-Major: Biostatistics  
-Interest: Data Analysis, Causal Inference, RWE, Machine Learning, Deep Learning
+
 
 ## Alumni
 
