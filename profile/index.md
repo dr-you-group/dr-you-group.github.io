@@ -56,7 +56,7 @@ Interest: Data Analysis, Causal Inference, RWE, Machine Learning, Deep Learning
 ![KyuleeJeon](https://user-images.githubusercontent.com/97151697/170902446-44ff18c4-e539-4b31-9595-bb7526d5cee6.jpg)
 ### Kyulee Jeon, BPH
 Major: Public Health in Health Convergence
-Interests: Common Data Model(CDM), Deep Learning, Precision Medicine, AI
+Interests: Common Data Model(CDM), Deep Learning, Precision Medicine
 
 
 ## Alumni
