@@ -43,6 +43,12 @@ Interests: Health Economics, Behavior Economics, Deep Learning, Machine Learning
 Major: Health Administration and Management   
 Interests: Data analysis, Public Health
 
+![Seojeong_2019_width236](https://user-images.githubusercontent.com/34934336/170898677-5b8c50de-78fd-493b-842a-f1c16b6ff8bd.jpg)
+### Seojeong Shin, PhD
+Major: Biomedical Informatics
+Interest: Oncology Study, Common Data Model, Medical Imaging, Deep Learning
+
+
 ## Alumni
 
 ![profile_ycs_resize](https://user-images.githubusercontent.com/48194852/137818794-c8407898-56a8-4d67-b9f6-f35e9904581a.jpg)
