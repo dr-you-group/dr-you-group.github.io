@@ -58,6 +58,7 @@ Interest: Data Analysis, Causal Inference, RWE, Machine Learning, Deep Learning
 Major: Public Health in Health Convergence
 Interests: Common Data Model(CDM), Deep Learning, Precision Medicine, AI
 
+
 ## Alumni
 
 ![profile_ycs_resize](https://user-images.githubusercontent.com/48194852/137818794-c8407898-56a8-4d67-b9f6-f35e9904581a.jpg)
