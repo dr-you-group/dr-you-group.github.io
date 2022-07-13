@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: page
 main: true
 title: Profiles
 permalink: /profiles/
-order: 2
 ---
 
 ## Director
