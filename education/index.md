@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: page
 main: true
 title: Education
-order: 5
 permalink: /education/
 ---
 *子曰: "學而時習之, 不亦說乎(학이시습지, 불역열호)?"*

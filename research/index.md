@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: page
 main: true
 title: Research
 permalink: /research/
-order: 3
 ---
 ## Areas of Research
 

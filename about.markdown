@@ -2,7 +2,6 @@
 layout: page
 title: About
 permalink: /about/
-order: 1
 ---
 
 This is a website to introduce Dr. You's research group.
