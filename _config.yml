@@ -42,7 +42,7 @@ header_pages:
   - education/index.md
   - research/index.md
   - publication/index.md
-  - posts.md
+  - posts/index.md
 
 # Customize settings
 subscribe: false
