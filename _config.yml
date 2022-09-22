@@ -19,22 +19,42 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Dr. You's research group
-author: Seng Chan You
-email: seng.chan.you@ohdsi.org
-description: >- # this means to ignore newlines until "baseurl:"
+author:
+  name: Seng Chan You
+  email: seng.chan.you@ohdsi.org
+description: > # this means to ignore newlines until "baseurl:"
   This is a blog for Dr. You's research group
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://dr-you-group-github.io" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username:
-github_username:  chandryou
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: "https://dr-you-group-github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+show_excerpts: false
+
+# Social networks
+#github_username: chandryou
+minima:
+  social_links:
+    github: chandryou
+
+# Customize navigation links
+header_pages:
+  - about.markdown
+  - profile/index.md
+  - education/index.md
+  - research/index.md
+  - publication/index.md
+  - posts.markdown
+
+# Customize settings
+subscribe: false
 
 # Build settings
 theme: minima
+
 plugins:
   - jekyll-feed
 
 excludes:
-  -_extras/
+  - _extras
 
 # Exclude from processing.
 # The following items will not be processed, by default.
