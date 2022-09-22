@@ -41,7 +41,7 @@ Major: Economics
 Interests: Health Economics, Behavior Economics, Deep Learning, Machine Learning  
 <br>
 
-![profile_ycs_resize](https://user-images.githubusercontent.com/101778510/191685198-59c3c6ee-2eb7-4bb0-a8de-8231691ada7e.jpg)
+![profile_ycs_resize](https://user-images.githubusercontent.com/101778510/191685449-cdf3a3d8-be5d-4aaf-9e6a-edc86f0cc490.png)
 #### Yijoo Park
 Major: Health Administration and Management   
 Interests: Common Data Model(CDM), Data analysis, Public Health  
