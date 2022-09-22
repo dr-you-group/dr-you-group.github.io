@@ -47,11 +47,6 @@ Interests: Data analysis, Public Health
 Major: Biomedical Informatics  
 Interest: Oncology Study, Common Data Model(CDM), Medical Imaging, Artificial Intelligence  
 
-![Jihyeshin](https://user-images.githubusercontent.com/101371789/170900696-045bc78d-1296-451c-9e61-eb628e778aee.jpg)
-### Jihye Shin, MS
-Major: Biostatistics  
-Interest: Data Analysis, Causal Inference, RWE, Machine Learning, Deep Learning
-
 ![KyuleeJeon](https://user-images.githubusercontent.com/97151697/170902446-44ff18c4-e539-4b31-9595-bb7526d5cee6.jpg)
 ### Kyulee Jeon, BPH
 Major: Public Health in Health Convergence  
@@ -59,6 +54,10 @@ Interests: Common Data Model(CDM), Deep Learning, Precision Medicine, AI
 
 
 ## Alumni
+![Jihyeshin](https://user-images.githubusercontent.com/101371789/170900696-045bc78d-1296-451c-9e61-eb628e778aee.jpg)
+### Jihye Shin, MS
+Major: Biostatistics  
+Interest: Data Analysis, Causal Inference, RWE, Machine Learning, Deep Learning
 
 ![profile_ycs_resize](https://user-images.githubusercontent.com/48194852/137818794-c8407898-56a8-4d67-b9f6-f35e9904581a.jpg)
 #### Yeonchan Seong, MA
