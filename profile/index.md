@@ -55,7 +55,7 @@ Interests: Common Data Model(CDM), Deep Learning, Precision Medicine, AI
 ![정성재01_236_315](https://user-images.githubusercontent.com/3184725/191676251-7935a4f4-ebff-4e60-9640-ead59c43d98d.jpg)
 #### Sungjae Jung, MS
 Major: Medical Informatics  
-Interest: Digital Healthcare Business, Data platform, Common Data Model(CDM), Artificial Intelligence  
+Interest: Digital Healthcare Business, Data Platform, Common Data Model(CDM), Artificial Intelligence  
 
 
 ## Alumni
