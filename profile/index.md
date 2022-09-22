@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: page
 main: true
 title: Profiles
 permalink: /profiles/
-order: 2
 ---
 
 ## Director
@@ -23,17 +22,12 @@ Interests: Service Design, BX Design
 Major: Public Health in Health Education and Management  
 Interests: AI, Machine Learning, Deep Learning, Data Analysis, Precision Medicine  
 
-![ybjung_profile](https://user-images.githubusercontent.com/89363626/138007233-097a74bc-e395-4882-a76f-c15050d59425.jpg)
-#### Yebin Jung, BPH
-Major: Public Health in Health Convergence   
-Interests: Public Health, Health Informatics, AI, Deep Learning
-
 ![sbk](https://user-images.githubusercontent.com/83568786/143965209-eb9183aa-3719-4f1c-ae45-a47c23df699f.jpg)
 #### Subin Kim, BPH, BS  
 Major: Public Health in Health Convergence, Statistics  
 Interests: Data Analysis, Machine Learning, Deep Learning  
 
-![profile](https://user-images.githubusercontent.com/96851024/152471055-463c5215-f382-47d4-8f1c-a54c03e474c5.jpg)
+![profile](https://user-images.githubusercontent.com/96851024/157778784-d2aa9e37-211d-413f-8a7c-fd6c5438ef47.jpg)
 #### SeungHyun Chung, BA, MS 
 Major: History of Science   
 Interests: history, storytelling, communication
@@ -43,9 +37,35 @@ Interests: history, storytelling, communication
 Major: Economics  
 Interests: Health Economics, Behavior Economics, Deep Learning, Machine Learning
 
+![profile_ycs_resize](https://user-images.githubusercontent.com/101778510/161868950-cb1d807e-31ed-42a5-8b93-8447b30a74cb.jpg)
+### Yijoo Park
+Major: Health Administration and Management   
+Interests: Data analysis, Public Health
+
+![Seojeong_2019_width236](https://user-images.githubusercontent.com/34934336/170898677-5b8c50de-78fd-493b-842a-f1c16b6ff8bd.jpg)
+### Seojeong Shin, PhD
+Major: Biomedical Informatics  
+Interest: Oncology Study, Common Data Model(CDM), Medical Imaging, Artificial Intelligence  
+
+![Jihyeshin](https://user-images.githubusercontent.com/101371789/170900696-045bc78d-1296-451c-9e61-eb628e778aee.jpg)
+### Jihye Shin, MS
+Major: Biostatistics  
+Interest: Data Analysis, Causal Inference, RWE, Machine Learning, Deep Learning
+
+![KyuleeJeon](https://user-images.githubusercontent.com/97151697/170902446-44ff18c4-e539-4b31-9595-bb7526d5cee6.jpg)
+### Kyulee Jeon, BPH
+Major: Public Health in Health Convergence  
+Interests: Common Data Model(CDM), Deep Learning, Precision Medicine, AI
+
+
 ## Alumni
 
 ![profile_ycs_resize](https://user-images.githubusercontent.com/48194852/137818794-c8407898-56a8-4d67-b9f6-f35e9904581a.jpg)
 #### Yeonchan Seong, MA
 Major: Health Administration, Sociology   
 Interests: Social Network Analysis, Machine Learning, Deep Learning
+
+![ybjung_profile](https://user-images.githubusercontent.com/89363626/138007233-097a74bc-e395-4882-a76f-c15050d59425.jpg)
+#### Yebin Jung, BPH
+Major: Public Health in Health Convergence   
+Interests: Public Health, Health Informatics, AI, Deep Learning
