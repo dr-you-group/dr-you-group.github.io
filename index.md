@@ -1,5 +1,6 @@
 ---
 layout: page
+main: true
 title: Welcome to the Dr.You’s Research Group
 permalink: /
 ---
