@@ -38,24 +38,24 @@ Major: Economics
 Interests: Health Economics, Behavior Economics, Deep Learning, Machine Learning
 
 ![profile_ycs_resize](https://user-images.githubusercontent.com/101778510/161868950-cb1d807e-31ed-42a5-8b93-8447b30a74cb.jpg)
-### Yijoo Park
+#### Yijoo Park
 Major: Health Administration and Management   
-Interests: Data analysis, Public Health
+Interests: Common Data Model(CDM), Data analysis, Public Health
 
 ![Seojeong_2019_width236](https://user-images.githubusercontent.com/34934336/170898677-5b8c50de-78fd-493b-842a-f1c16b6ff8bd.jpg)
-### Seojeong Shin, PhD
+#### Seojeong Shin, PhD
 Major: Biomedical Informatics  
 Interest: Oncology Study, Common Data Model(CDM), Medical Imaging, Artificial Intelligence  
 
 ![KyuleeJeon](https://user-images.githubusercontent.com/97151697/170902446-44ff18c4-e539-4b31-9595-bb7526d5cee6.jpg)
-### Kyulee Jeon, BPH
+#### Kyulee Jeon, BPH
 Major: Public Health in Health Convergence  
 Interests: Common Data Model(CDM), Deep Learning, Precision Medicine, AI
 
 
 ## Alumni
 ![Jihyeshin](https://user-images.githubusercontent.com/101371789/170900696-045bc78d-1296-451c-9e61-eb628e778aee.jpg)
-### Jihye Shin, MS
+#### Jihye Shin, MS
 Major: Biostatistics  
 Interest: Data Analysis, Causal Inference, RWE, Machine Learning, Deep Learning
 
