@@ -37,7 +37,7 @@ minima:
 
 # Customize navigation links
 header_pages:
-  - about.md
+  - about/index.md
   - profile/index.md
   - education/index.md
   - research/index.md
