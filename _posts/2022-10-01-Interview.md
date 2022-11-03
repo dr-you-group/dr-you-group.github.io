@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2022년 11월 연구원 인터뷰 보고서"
+title: "2022년 10월 연구원 인터뷰 보고서"
 tags: interview
 date: 2022-10-29
 last update: 2022-11-03
