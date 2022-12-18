@@ -32,7 +32,7 @@ Interests: Data Analysis, Machine Learning, Deep Learning
 ![profile](https://user-images.githubusercontent.com/96851024/157778784-d2aa9e37-211d-413f-8a7c-fd6c5438ef47.jpg)
 #### SeungHyun Chung, BA, MS 
 Major: History of Science   
-Interests: history, storytelling, communication  
+Interests: History, Storytelling, Communication, HRM 
 <br>
 
 ![양복 증명사진](https://user-images.githubusercontent.com/97265478/154625299-ee002c8d-e6ec-4850-b61e-bade694f2ffb.jpg)
