@@ -35,12 +35,6 @@ Major: History of Science
 Interests: History, Storytelling, Communication, HRM 
 <br>
 
-![양복 증명사진](https://user-images.githubusercontent.com/97265478/154625299-ee002c8d-e6ec-4850-b61e-bade694f2ffb.jpg)
-#### Yongjae Lee, MA
-Major: Economics  
-Interests: Health Economics, Behavior Economics, Deep Learning, Machine Learning  
-<br>
-
 ![profile_ycs_resize](https://user-images.githubusercontent.com/101778510/191685963-6a8e70f4-bb45-4539-a517-b480f4fd2848.png)
 #### Yijoo Park
 Major: Health Administration and Management   
@@ -58,12 +52,6 @@ Interests: Oncology Study, Common Data Model(CDM), Medical Imaging, Artificial I
 Major: Public Health in Health Convergence  
 Interests: Common Data Model(CDM), Deep Learning, Precision Medicine, AI  
 <br/>
-
-![정성재01_236_315](https://user-images.githubusercontent.com/3184725/191676251-7935a4f4-ebff-4e60-9640-ead59c43d98d.jpg)
-#### Sungjae Jung, MS
-Major: Medical Informatics  
-Interest: Digital Healthcare Business, Data Platform, Common Data Model(CDM), Artificial Intelligence  
-<br>
 
 
 ## Alumni
@@ -83,4 +71,16 @@ Interests: Social Network Analysis, Machine Learning, Deep Learning
 #### Yebin Jung, BPH
 Major: Public Health in Health Convergence   
 Interests: Public Health, Health Informatics, AI, Deep Learning  
+<br>
+
+![양복 증명사진](https://user-images.githubusercontent.com/97265478/154625299-ee002c8d-e6ec-4850-b61e-bade694f2ffb.jpg)
+#### Yongjae Lee, MA
+Major: Economics  
+Interests: Health Economics, Behavior Economics, Deep Learning, Machine Learning  
+<br>
+
+![정성재01_236_315](https://user-images.githubusercontent.com/3184725/191676251-7935a4f4-ebff-4e60-9640-ead59c43d98d.jpg)
+#### Sungjae Jung, MS
+Major: Medical Informatics  
+Interest: Digital Healthcare Business, Data Platform, Common Data Model(CDM), Artificial Intelligence  
 <br>
