@@ -11,11 +11,34 @@ permalink: /profiles/
 Seng Chan You is a medical doctor who majored in internal medicine from Severance hospital, Korea. He received his Master of Medical Science at the same university. He completed a PhD course at the Department of Biomedical Informatics, Ajou university. He studies primarily OHDSI network research. He received the best community contribution award for clinical evidence generation at the 2017 OHDSI symposium.  
 
 ## Members
-![jay](https://user-images.githubusercontent.com/92774958/137850326-820d4eae-8148-4a67-9a4b-559b7e5c68b2.png)
-#### Jaehyun Shin, MFA  
-Major: Visual Communication Design  
-Interests: Service Design, BX Design    
+
+![jaehyeong](https://user-images.githubusercontent.com/84831718/232418089-5e0ba2a3-c44d-4154-aad6-992340e18dd1.PNG)
+#### Jaehyeong Cho, PhD  
+Major: Medical informatics  
+Interests: Common Data Model, Epidemiology, Machine Learning, Heterogeneity of Treatment Effects   
 <br>
+
+
+![seojeong](https://user-images.githubusercontent.com/84831718/232411121-a85e56d6-2a8c-43f2-9a7e-b6138a084890.jpg)
+#### Seojeong Shin, PhD  
+Major: Biomedical Informatics  
+Interests: Common Data Model(CDM), Oncology, Medical Imaging, AI    
+<br>
+
+
+![seonji](https://user-images.githubusercontent.com/84831718/232413715-1e3cb5a7-03cf-4acb-a91c-de6cf10e47c0.jpg)
+#### Seonji Kim, PhD  
+Major: Preventive Medicine  
+Interests: Pharmacoepidemiology, Causal Inference, Common Data Model (CDM), Data Analysis   
+<br>
+
+
+![heemin](https://user-images.githubusercontent.com/84831718/232414092-7fc1e94f-87b7-410a-bc7d-ef7b0d932603.jpg)
+#### Heemin Jin, PhD
+Major: Educational Statistics  
+Interests: Longitudinal Study, Missing Data, Data Analysis    
+<br>
+
 
 ![sjeom_resized](https://user-images.githubusercontent.com/81948366/138006383-c4dd79e2-3749-40ea-86b4-97b026f33f20.jpg)
 #### Sujeong EOM, BPH  
@@ -23,64 +46,75 @@ Major: Public Health in Health Education and Management
 Interests: AI, Machine Learning, Deep Learning, Data Analysis, Precision Medicine  
 <br>
 
-![sbk](https://user-images.githubusercontent.com/83568786/143965209-eb9183aa-3719-4f1c-ae45-a47c23df699f.jpg)
-#### Subin Kim, BPH, BS  
-Major: Public Health in Health Convergence, Statistics  
-Interests: Data Analysis, Machine Learning, Deep Learning  
+
+![subin](https://user-images.githubusercontent.com/84831718/232414578-b97fd6f2-47cf-453c-bbe4-5c571fa2e55b.jpg)
+#### Subin Kim, BPH, BS
+Major: Biomedical Informatics  
+Interests: RWE (Real World Evidence), Machine Learning, Natural Language Processing   
 <br>
 
+![jay](https://user-images.githubusercontent.com/92774958/137850326-820d4eae-8148-4a67-9a4b-559b7e5c68b2.png)
+#### Jaehyun Shin, MFA  
+Major: Visual Communication Design  
+Interests: Service Design, BX Design    
+<br>
+
+
 ![profile](https://user-images.githubusercontent.com/96851024/157778784-d2aa9e37-211d-413f-8a7c-fd6c5438ef47.jpg)
-#### SeungHyun Chung, BA, MS 
+#### Seunghyun Chung, BA, MS 
 Major: History of Science   
 Interests: History, Storytelling, Communication, HRM 
 <br>
 
-![profile_ycs_resize](https://user-images.githubusercontent.com/101778510/191685963-6a8e70f4-bb45-4539-a517-b480f4fd2848.png)
-#### Yijoo Park
-Major: Health Administration and Management   
-Interests: Common Data Model(CDM), Data analysis, Public Health  
-<br>
-
-![Seojeong_2019_width236](https://user-images.githubusercontent.com/34934336/170898677-5b8c50de-78fd-493b-842a-f1c16b6ff8bd.jpg)
-#### Seojeong Shin, PhD
-Major: Biomedical Informatics  
-Interests: Oncology Study, Common Data Model(CDM), Medical Imaging, Artificial Intelligence  
-<br/>
 
 ![KyuleeJeon](https://user-images.githubusercontent.com/97151697/170902446-44ff18c4-e539-4b31-9595-bb7526d5cee6.jpg)
 #### Kyulee Jeon, BPH
-Major: Public Health in Health Convergence  
-Interests: Common Data Model(CDM), Deep Learning, Precision Medicine, AI  
+Major: Biomedical Informatics  
+Interests: Data Standardization (CDM), Data Analysis, Deep Learning  
+<br/>
+
+![yijoo](https://user-images.githubusercontent.com/84831718/232415069-17dd44af-67fc-41fd-982f-2877224df33d.jpg)
+#### Yijoo Park, BS
+Major: Health Administration and Management  
+Interests: Common Data Model(CDM), Data analysis, Public Health 
+<br>
+
+![yeojin](https://user-images.githubusercontent.com/84831718/232415336-2d059536-3567-4d7f-843e-818b768ac520.png)
+#### Yeojin Cha, BS  
+Major: Nursing  
+Interests: R&D in Healthcare, Nursing Informatics, Hospital Information System, Artificial Intelligence   
+<br>
+
+
+![dachung](https://user-images.githubusercontent.com/84831718/232415929-b0a11c76-9a91-455b-816a-e11f693ca2df.jpg)
+#### Dachung Boo, BS  
+Major: Industrial Engineering  
+Interests: Common Data Model(CDM), Data Analysis, AI  
+<br>
+
+![hyunju](https://user-images.githubusercontent.com/84831718/232416350-343447d1-db43-4b0a-97cb-09194e754c77.jpg)
+#### Hyunju Lee, AA
+Major: Health Administration  
+Interests: Hospital accounting, financial management  
 <br/>
 
 
-## Alumni
-![Jihyeshin](https://user-images.githubusercontent.com/101371789/170900696-045bc78d-1296-451c-9e61-eb628e778aee.jpg)
-#### Jihye Shin, MS
-Major: Biostatistics  
-Interests: Data Analysis, Causal Inference, RWE, Machine Learning, Deep Learning  
-<br>
+![injung](https://user-images.githubusercontent.com/84831718/232416725-9def92b4-2953-4b71-a6de-a94354a06a61.jpg)
+#### Injung Yeo, AA
+Major: Health Administration  
+Interests: Common Data Model(CDM)  
+<br/>
 
-![profile_ycs_resize](https://user-images.githubusercontent.com/48194852/137818794-c8407898-56a8-4d67-b9f6-f35e9904581a.jpg)
-#### Yeonchan Seong, MA
-Major: Health Administration, Sociology   
-Interests: Social Network Analysis, Machine Learning, Deep Learning  
-<br>
 
-![ybjung_profile](https://user-images.githubusercontent.com/89363626/138007233-097a74bc-e395-4882-a76f-c15050d59425.jpg)
-#### Yebin Jung, BPH
-Major: Public Health in Health Convergence   
-Interests: Public Health, Health Informatics, AI, Deep Learning  
-<br>
+![seungil](https://user-images.githubusercontent.com/84831718/232416939-8ee431c0-bced-4fcd-826e-f892e303c3eb.jpg)
+#### Seungli Kim, BS
+Major: Information Statistics  
+Interests: Data Analysis 
+<br/>
 
-![양복 증명사진](https://user-images.githubusercontent.com/97265478/154625299-ee002c8d-e6ec-4850-b61e-bade694f2ffb.jpg)
-#### Yongjae Lee, MA
-Major: Economics  
-Interests: Health Economics, Behavior Economics, Deep Learning, Machine Learning  
-<br>
 
-![정성재01_236_315](https://user-images.githubusercontent.com/3184725/191676251-7935a4f4-ebff-4e60-9640-ead59c43d98d.jpg)
-#### Sungjae Jung, MS
-Major: Medical Informatics  
-Interest: Digital Healthcare Business, Data Platform, Common Data Model(CDM), Artificial Intelligence  
-<br>
+![jinwoo](https://user-images.githubusercontent.com/84831718/232417324-11e93087-d309-48d3-8421-2b95b16c83ea.jpg)
+#### Jinwoo Yoon, AA
+Major: Musical  
+Interests: Data Engineering
+<br/>
