@@ -53,7 +53,6 @@ Major: Biomedical Informatics
 Interests: RWE (Real World Evidence), Machine Learning, Natural Language Processing   
 <br>
 
-
 ![jay](https://user-images.githubusercontent.com/92774958/137850326-820d4eae-8148-4a67-9a4b-559b7e5c68b2.png)
 #### Jaehyun Shin, MFA  
 Major: Visual Communication Design  
@@ -74,13 +73,11 @@ Major: Biomedical Informatics
 Interests: Data Standardization (CDM), Data Analysis, Deep Learning  
 <br/>
 
-
 ![yijoo](https://user-images.githubusercontent.com/84831718/232415069-17dd44af-67fc-41fd-982f-2877224df33d.jpg)
 #### Yijoo Park, BS
 Major: Health Administration and Management  
 Interests: Common Data Model(CDM), Data analysis, Public Health 
 <br>
-
 
 ![yeojin](https://user-images.githubusercontent.com/84831718/232415336-2d059536-3567-4d7f-843e-818b768ac520.png)
 #### Yeojin Cha, BS  
@@ -94,7 +91,6 @@ Interests: R&D in Healthcare, Nursing Informatics, Hospital Information System, 
 Major: Industrial Engineering  
 Interests: Common Data Model(CDM), Data Analysis, AI  
 <br>
-
 
 ![hyunju](https://user-images.githubusercontent.com/84831718/232416350-343447d1-db43-4b0a-97cb-09194e754c77.jpg)
 #### Hyunju Lee, AA
