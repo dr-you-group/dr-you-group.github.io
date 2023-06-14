@@ -41,7 +41,7 @@ Interests: Longitudinal Study, Missing Data, Data Analysis
 
 
 ![sjeom_resized](https://user-images.githubusercontent.com/81948366/138006383-c4dd79e2-3749-40ea-86b4-97b026f33f20.jpg)
-#### Sujeong EOM, BPH  
+#### Sujeong Eom, BPH  
 Major: Public Health in Health Education and Management  
 Interests: AI, Machine Learning, Deep Learning, Data Analysis, Precision Medicine  
 <br>
@@ -111,7 +111,7 @@ Interests: Common Data Model(CDM)
 
 
 ![seungil](https://user-images.githubusercontent.com/84831718/232416939-8ee431c0-bced-4fcd-826e-f892e303c3eb.jpg)
-#### Seungli Kim, BS
+#### Seungil Kim, BS
 Major: Information Statistics  
 Interests: Data Analysis  
 <br/>
