@@ -12,7 +12,7 @@ Seng Chan You is a medical doctor who majored in internal medicine from Severanc
 
 ## Members
 
-![jaehyeong](https://user-images.githubusercontent.com/84831718/232418089-5e0ba2a3-c44d-4154-aad6-992340e18dd1.PNG)
+![jaehyeong](https://github.com/jinwooyoon/dr-you-group.github.io/assets/84831718/71fb1502-c032-4fbe-88cd-774931a5021d)
 #### Jaehyeong Cho, PhD  
 Major: Medical informatics  
 Interests: Common Data Model, Epidemiology, Machine Learning, Heterogeneity of Treatment Effects   
@@ -53,6 +53,7 @@ Major: Biomedical Informatics
 Interests: RWE (Real World Evidence), Machine Learning, Natural Language Processing   
 <br>
 
+
 ![jay](https://user-images.githubusercontent.com/92774958/137850326-820d4eae-8148-4a67-9a4b-559b7e5c68b2.png)
 #### Jaehyun Shin, MFA  
 Major: Visual Communication Design  
@@ -73,11 +74,13 @@ Major: Biomedical Informatics
 Interests: Data Standardization (CDM), Data Analysis, Deep Learning  
 <br/>
 
+
 ![yijoo](https://user-images.githubusercontent.com/84831718/232415069-17dd44af-67fc-41fd-982f-2877224df33d.jpg)
 #### Yijoo Park, BS
 Major: Health Administration and Management  
 Interests: Common Data Model(CDM), Data analysis, Public Health 
 <br>
+
 
 ![yeojin](https://user-images.githubusercontent.com/84831718/232415336-2d059536-3567-4d7f-843e-818b768ac520.png)
 #### Yeojin Cha, BS  
@@ -91,6 +94,7 @@ Interests: R&D in Healthcare, Nursing Informatics, Hospital Information System, 
 Major: Industrial Engineering  
 Interests: Common Data Model(CDM), Data Analysis, AI  
 <br>
+
 
 ![hyunju](https://user-images.githubusercontent.com/84831718/232416350-343447d1-db43-4b0a-97cb-09194e754c77.jpg)
 #### Hyunju Lee, AA
@@ -113,8 +117,22 @@ Interests: Data Analysis
 <br/>
 
 
+![yeonjae](https://github.com/jinwooyoon/dr-you-group.github.io/assets/84831718/4b8f59eb-7285-4eb7-b1be-88ac175d10fc)
+#### Yeonjae Han, BS
+Major: Nursing  
+Interests: Common Data Model(CDM), Data Analysis
+<br/>
+
+
 ![jinwoo](https://user-images.githubusercontent.com/84831718/232417324-11e93087-d309-48d3-8421-2b95b16c83ea.jpg)
 #### Jinwoo Yoon, AA
 Major: Musical  
 Interests: Data Engineering
+<br/>
+
+
+![jungheui](https://github.com/jinwooyoon/dr-you-group.github.io/assets/84831718/4c50f6e7-146b-478a-be69-b11679e1f337)
+#### Jungheui Kim, BS
+Major: Physical Therapy  
+Interests: Digital Healthcare, Artificial Intelligence, Data Analysis, Causal Inference
 <br/>
