@@ -131,7 +131,7 @@ Interests: Data Engineering
 <br/>
 
 
-![jungheui](https://github.com/jinwooyoon/dr-you-group.github.io/assets/84831718/4c50f6e7-146b-478a-be69-b11679e1f337)
+![jungheui](https://github.com/jinwooyoon/dr-you-group.github.io/assets/84831718/128f50ad-9b7c-462c-9fb1-098cf16b3eb4)
 #### Jungheui Kim, BS
 Major: Physical Therapy  
 Interests: Digital Healthcare, Artificial Intelligence, Data Analysis, Causal Inference  
