@@ -42,8 +42,8 @@ Interests: Longitudinal Study, Missing Data, Data Analysis
 
 ![arum](https://github.com/jinwooyoon/dr-you-group.github.io/assets/84831718/c62d2659-964d-421d-967f-36a57e675280)
 #### Arum Choi, PhD
-Major : Public Health 
-Interests:  Digital Health, Health Care Utilization, Real World Evidence, Data Analysis
+Major : Public Health  
+Interests:  Digital Health, Health Care Utilization, Real World Evidence, Data Analysis  
 <br/>
 
 
@@ -142,4 +142,11 @@ Interests: Data Engineering
 #### Jungheui Kim, BS
 Major: Physical Therapy  
 Interests: Digital Healthcare, Artificial Intelligence, Data Analysis, Causal Inference  
+<br/>
+
+
+![sumin](https://github.com/jinwooyoon/dr-you-group.github.io/assets/84831718/090250ad-77ff-41b3-a7f2-5a873c5ff24e)
+#### Sumin Lee, BS
+Major: Biomedical Engineering  
+Interests: Artificial Intelligence, Data Analysis   
 <br/>
