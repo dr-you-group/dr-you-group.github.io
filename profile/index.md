@@ -37,21 +37,28 @@ Interests: Pharmacoepidemiology, Causal Inference, Common Data Model, Data Analy
 #### Heemin Jin, PhD
 Major: Educational Statistics  
 Interests: Longitudinal Study, Missing Data, Data Analysis  
-<br>
+<br/>
+
+
+![arum](https://github.com/jinwooyoon/dr-you-group.github.io/assets/84831718/c62d2659-964d-421d-967f-36a57e675280)
+#### Arum Choi, PhD
+Major : Public Health  
+Interests:  Digital Health, Health Care Utilization, Real World Evidence, Data Analysis  
+<br/>
 
 
 ![sjeom_resized](https://user-images.githubusercontent.com/81948366/138006383-c4dd79e2-3749-40ea-86b4-97b026f33f20.jpg)
 #### Sujeong Eom, BPH  
 Major: Public Health in Health Education and Management  
 Interests: Artificial Intelligence, Machine Learning, Deep Learning, Data Analysis, Precision Medicine  
-<br>
+<br/>
 
 
 ![subin](https://user-images.githubusercontent.com/84831718/232414578-b97fd6f2-47cf-453c-bbe4-5c571fa2e55b.jpg)
 #### Subin Kim, BPH, BS
 Major: Biomedical Informatics  
 Interests: Real World Evidence, Machine Learning, Natural Language Processing  
-<br>
+<br/>
 
 
 ![jay](https://user-images.githubusercontent.com/92774958/137850326-820d4eae-8148-4a67-9a4b-559b7e5c68b2.png)
@@ -93,7 +100,7 @@ Interests: Research and Development in Healthcare, Nursing Informatics, Hospital
 #### Dachung Boo, BS  
 Major: Industrial Engineering  
 Interests: Common Data Model, Data Analysis, Artificial Intelligence  
-<br>
+<br/>
 
 
 ![hyunju](https://user-images.githubusercontent.com/84831718/232416350-343447d1-db43-4b0a-97cb-09194e754c77.jpg)
@@ -135,4 +142,11 @@ Interests: Data Engineering
 #### Jungheui Kim, BS
 Major: Physical Therapy  
 Interests: Digital Healthcare, Artificial Intelligence, Data Analysis, Causal Inference  
+<br/>
+
+
+![sumin](https://github.com/jinwooyoon/dr-you-group.github.io/assets/84831718/090250ad-77ff-41b3-a7f2-5a873c5ff24e)
+#### Sumin Lee, BS
+Major: Biomedical Engineering  
+Interests: Artificial Intelligence, Data Analysis   
 <br/>
