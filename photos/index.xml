@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dryou-homepage</title>
-    <link>https://jinwooyoon.github.io/test-server.github.io/photos/</link>
+    <link>https://dr-you-group.github.io/photos/</link>
     <description>Recent content on Dryou-homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://jinwooyoon.github.io/test-server.github.io/photos/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dr-you-group.github.io/photos/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2024년 3월 워크숍</title>
-      <link>https://jinwooyoon.github.io/test-server.github.io/photos/pic_2023_01/</link>
+      <link>https://dr-you-group.github.io/photos/pic_2023_01/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jinwooyoon.github.io/test-server.github.io/photos/pic_2023_01/</guid>
+      <guid>https://dr-you-group.github.io/photos/pic_2023_01/</guid>
       <description></description>
     </item>
     
