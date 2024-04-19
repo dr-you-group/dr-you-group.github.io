@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Dryou-homepage</title>
+    <link>https://jinwooyoon.github.io/test-server.github.io/post/</link>
+    <description>Recent content in Posts on Dryou-homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 05 Feb 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jinwooyoon.github.io/test-server.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2023년 1월 연구원 인터뷰 보고서</title>
+      <link>https://jinwooyoon.github.io/test-server.github.io/post/interview_2023_01/</link>
+      <pubDate>Sun, 05 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jinwooyoon.github.io/test-server.github.io/post/interview_2023_01/</guid>
+      <description>개요 2023년 1월, 김선지, 김수빈, 김승일, 박이주, 신서정, 신재현, 엄수정, 여인정, 이현주, 전규리, 조재형, 차여진 총 12인을 대상으로 서면 인터뷰를 진행하였다.</description>
+    </item>
+    
+    <item>
+      <title>2022년 10월 연구원 인터뷰 보고서</title>
+      <link>https://jinwooyoon.github.io/test-server.github.io/post/interview_2022_10/</link>
+      <pubDate>Sat, 29 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://jinwooyoon.github.io/test-server.github.io/post/interview_2022_10/</guid>
+      <description>개요 2022년 10월 25~26일에 걸쳐 (가나다순) 김선지, 김수빈, 박이주, 신서정, 신재현, 엄수정, 여인정, 이용재, 이현주, 전규리, 정성재, 조재형, 차여진 13인을 대상으로 인터뷰를 실시.</description>
+    </item>
+    
+    <item>
+      <title>2022년 04월 연구원 인터뷰 보고서</title>
+      <link>https://jinwooyoon.github.io/test-server.github.io/post/interview_2022_04/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://jinwooyoon.github.io/test-server.github.io/post/interview_2022_04/</guid>
+      <description>개요 2022년 4월 21,27일에 걸쳐 9인을 대상으로 인터뷰를 실시. 지난 인터뷰의 경험을 바탕으로볼 때 대면 인터뷰가 효과적일 수 있을 것으로 예상되어 대면 방식을 진행하되, 각각의 성향과 스케쥴을 고려하여 화상 인터뷰도 선택할 수 있도록 했다.</description>
+    </item>
+    
+    <item>
+      <title>Publication in 2022: The Evolution of Evidence-Based Medicine</title>
+      <link>https://jinwooyoon.github.io/test-server.github.io/post/yale_2022_02/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://jinwooyoon.github.io/test-server.github.io/post/yale_2022_02/</guid>
+      <description>The Evolution of Evidence-Based Medicine: When the Magic of the Randomized Clinical Trial Meets Real-World Data
+ Yale 대학교의 Krumholz 교수님께서 귀한 기회를 주셔서 감히 Robert Yeh/Butala 선생님의 EXTEND-DAPT 연구에 대한 editorial을 써서 Circulation에 게재하는 영광을 누리게 되었습니다.</description>
+    </item>
+    
+    <item>
+      <title>2022년 01월 연구원 인터뷰 보고서</title>
+      <link>https://jinwooyoon.github.io/test-server.github.io/post/interview_2022_01/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://jinwooyoon.github.io/test-server.github.io/post/interview_2022_01/</guid>
+      <description>개요 2022년 1월 27,29일에 걸쳐 6인을 대상으로 첫 번째 인터뷰 실시. 처음 하는 인터뷰이고 질문자와 면식이 없는 점 등을 감안하여 일상적 대화 형식으로 진행.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,10 +2,10 @@
 <html lang="en-US">
 <head>
   <meta charset="utf-8">
-  <title>404 Page not found</title>
+  <title>Search Result</title>
 
   <meta name="author" content="Themefisher">
-  <meta name="description" content="  This is meta description  ">
+  <meta name="description" content=" this is meta description ">
 
   <!-- mobile responsive meta -->
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
@@ -209,17 +209,43 @@ AUTHOR WEBSITE: https://themefisher.com
   <main style="min-height: 100vh; display: flex; flex-direction: column;">
     
 
-<section class="section-sm">
+<section class="section">
   <div class="container">
     <div class="row">
-      <div class="col-12">
-        <div class="text-center">
-          <h2>404 Page not found</h2>
+      <div class="col-lg-10 mx-auto mb-5">
+        <div class="title-bordered">
+          <h1 class="h3">Search results for
+            <span class="mark">
+              <script>
+                var keyword = decodeURIComponent((window.location.search).substr(3));
+                var result = keyword.replace(/\+/g, " ");
+                document.write(result);
+              </script>
+            </span>
+          </h1>
         </div>
+      </div>
+      <div class="col-lg-10 mx-auto">
+        <div class="row" id="search-results"></div>
+        <script id="search-result-template" type="text/x-js-template">
+          <article class="row align-items-center mb-4" id="id-${key}">
+            <div class="col-md-5 mb-4">${image}</div>
+            <div class="col-md-7 mb-4">
+              <span class="d-inline-block mb-3">${date}</span>
+              <h3 class="h4 mb-3">
+                <a class="post-title" href="${link}">${title}</a>
+              </h3>
+              <p class="mb-0">${snippet}</p>
+            </div>
+          </article>
+        </script>
       </div>
     </div>
   </div>
 </section>
+
+
+<script>var indexURL = "https://jinwooyoon.github.io/test-server.github.io/index.json"</script>
 
 
 </main>
