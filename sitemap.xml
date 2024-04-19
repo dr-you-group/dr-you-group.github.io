@@ -1,57 +1,101 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://dr-you-group.github.io/</loc>
-  <lastmod>2022-07-13T02:53:15+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://dr-you-group.github.io/about/</loc>
-  <lastmod>2022-07-13T02:53:15+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://dr-you-group.github.io/profiles/</loc>
-  <lastmod>2022-07-13T02:53:15+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://dr-you-group.github.io/education/</loc>
-  <lastmod>2022-07-13T02:53:15+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://dr-you-group.github.io/research/</loc>
-  <lastmod>2022-07-13T02:53:15+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://dr-you-group.github.io/publications/</loc>
-  <lastmod>2022-07-13T02:53:15+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://dr-you-group.github.io/posts/</loc>
-  <lastmod>2022-07-13T02:53:15+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://dr-you-group.github.io/2022/02/01/Pub-CirEditorial.html</loc>
-  <lastmod>2022-07-13T02:53:15+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://dr-you-group.github.io/2022/02/01/Use-Docker-For-Jekyll.html</loc>
-  <lastmod>2022-07-13T02:53:15+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-
-
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://dr-you-group.github.io/photos/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dr-you-group.github.io/photos/pic_2023_01/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dr-you-group.github.io/</loc>
+    <lastmod>2024-03-13T10:15:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dr-you-group.github.io/profiles/</loc>
+    <lastmod>2024-03-13T10:15:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dr-you-group.github.io/post/interview_2023_01/</loc>
+    <lastmod>2023-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dr-you-group.github.io/post/</loc>
+    <lastmod>2023-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dr-you-group.github.io/post/interview_2022_10/</loc>
+    <lastmod>2022-10-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dr-you-group.github.io/post/interview_2022_04/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dr-you-group.github.io/post/yale_2022_02/</loc>
+    <lastmod>2022-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dr-you-group.github.io/post/interview_2022_01/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dr-you-group.github.io/search/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dr-you-group.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dr-you-group.github.io/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dr-you-group.github.io/education/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dr-you-group.github.io/elements/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dr-you-group.github.io/research/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dr-you-group.github.io/404/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dr-you-group.github.io/privacy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dr-you-group.github.io/publications/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dr-you-group.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dr-you-group.github.io/terms-conditions/</loc>
+  </url>
+  
 </urlset>
