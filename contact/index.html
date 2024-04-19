@@ -2,7 +2,7 @@
 <html lang="en-US">
 <head>
   <meta charset="utf-8">
-  <title>404 Page not found</title>
+  <title>Contact</title>
 
   <meta name="author" content="Themefisher">
   <meta name="description" content="  This is meta description  ">
@@ -211,11 +211,28 @@ AUTHOR WEBSITE: https://themefisher.com
 
 <section class="section-sm">
   <div class="container">
-    <div class="row">
-      <div class="col-12">
-        <div class="text-center">
-          <h2>404 Page not found</h2>
-        </div>
+    <div class="row justify-content-center">
+      <div class="col-8">
+        <form action="#" method="post">
+          <div class="mb-4">
+            <label for="name" class="form-label">Full Name</label>
+            <input type="text" class="form-control" id="name" name="name" required>
+          </div>
+          <div class="mb-4">
+            <label for="email" class="form-label">Email</label>
+            <input type="email" class="form-control" id="email" name="email" required>
+          </div>
+          <div class="mb-4">
+            <label for="subject" class="form-label">Subject</label>
+            <input type="text" class="form-control" id="subject" name="subject" required>
+          </div>
+          <div class="mb-4">
+            <label for="message" class="form-label">Message</label>
+            <textarea class="form-control" id="message" rows="4" name="message" required></textarea>
+          </div>
+
+          <button type="submit" class="btn btn-primary" aria-label="Send Message">Send Now</button>
+        </form>
       </div>
     </div>
   </div>
