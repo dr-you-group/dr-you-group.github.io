@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Profiles on Dryou-homepage</title>
+    <title>Home on Dryou-homepage</title>
     <link>https://dr-you-group.github.io/</link>
-    <description>Recent content in Profiles on Dryou-homepage</description>
+    <description>Recent content in Home on Dryou-homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 13 Mar 2024 10:15:00 +0530</lastBuildDate>
     
@@ -12,10 +12,10 @@
     
     <item>
       <title>2024년 3월 워크숍</title>
-      <link>https://dr-you-group.github.io/photos/pic_2023_01/</link>
+      <link>https://dr-you-group.github.io/photos/2024_worshop/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://dr-you-group.github.io/photos/pic_2023_01/</guid>
+      <guid>https://dr-you-group.github.io/photos/2024_worshop/</guid>
       <description></description>
     </item>
     
@@ -25,6 +25,51 @@
       <pubDate>Wed, 13 Mar 2024 10:15:00 +0530</pubDate>
       
       <guid>https://dr-you-group.github.io/profiles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2024년 1월 연구원 인터뷰 보고서</title>
+      <link>https://dr-you-group.github.io/post/interview_2024_01/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://dr-you-group.github.io/post/interview_2024_01/</guid>
+      <description>개요 2024년 1월, 김선지, 김수빈, 김승일, 김정희, 박이주, 부다정, 신서정, 신재현, 엄수정, 윤진우, 이수민, 이현주, 전규리, 조재형, 진희민, 차여진, 최아름, 한연재 총 18인을 대상으로 화상 인터뷰를 진행하였다.</description>
+    </item>
+    
+    <item>
+      <title>2023년 추계 학술대회</title>
+      <link>https://dr-you-group.github.io/photos/2023_autumn_symposium/</link>
+      <pubDate>Sat, 02 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dr-you-group.github.io/photos/2023_autumn_symposium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2023년 교실 체육대회</title>
+      <link>https://dr-you-group.github.io/photos/2023_sports_day/</link>
+      <pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dr-you-group.github.io/photos/2023_sports_day/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2023년 춘계 학술대회</title>
+      <link>https://dr-you-group.github.io/photos/2023_spring_symposium/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dr-you-group.github.io/photos/2023_spring_symposium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2023년 3월 워크숍</title>
+      <link>https://dr-you-group.github.io/photos/2023_worshop/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dr-you-group.github.io/photos/2023_worshop/</guid>
       <description></description>
     </item>
     
