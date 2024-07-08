@@ -5,10 +5,19 @@
     <link>https://dr-you-group.github.io/photos/</link>
     <description>Recent content on Dryou-homepage</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dr-you-group.github.io/photos/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2024년 춘계 학술대회</title>
+      <link>https://dr-you-group.github.io/photos/2024_spring_symposium/</link>
+      <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://dr-you-group.github.io/photos/2024_spring_symposium/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>2024년 3월 워크숍</title>
