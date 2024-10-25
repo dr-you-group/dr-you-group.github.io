@@ -4,6 +4,10 @@
     <title>Categories on Dryou-homepage</title>
     <link>https://dr-you-group.github.io/categories/</link>
     <description>Recent content in Categories on Dryou-homepage</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://dr-you-group.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://dr-you-group.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>
