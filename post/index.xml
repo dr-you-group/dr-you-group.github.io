@@ -5,7 +5,11 @@
     <link>https://dr-you-group.github.io/post/</link>
     <description>Recent content in Posts on Dryou-homepage</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 26 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dr-you-group.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Jul 2024 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://dr-you-group.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>2024년 7월 연구원 인터뷰 보고서</title>
       <link>https://dr-you-group.github.io/post/interview_2024_07/</link>
