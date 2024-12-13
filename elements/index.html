@@ -212,17 +212,19 @@ AUTHOR WEBSITE: https://themefisher.com
     
 <div class="section-sm">
   <div class="container">
-      <h1 class="section-heading">Elements</h1>
-      
-      
-      
-      <div class="meta-info" style="margin-bottom: 50px;">
-      <i class="far fa-calendar"></i> Published On: 0001-01-01
-      </div>
+    <div class="row justify-content-center"> 
+      <div class="col-md-9"> 
+        <h1 class="section-heading text-center font-weight-bold mb-4">Elements</h1>
 
+        
+        <div class="meta-info text-center mb-4">
+          <i class="far fa-calendar"></i> 
+          <span class="text-muted">Published On: 0001-01-01</span>
+        </div>
 
-      <div class="content mt-3">
-        <h4 id="heading-example">Heading example</h4>
+        
+        <div class="content mt-3 shadow-sm bg-white p-4 rounded">
+          <h4 id="heading-example">Heading example</h4>
 <p>Here is example of hedings. You can use this heading by following markdownify rules. For example: use <code>#</code> for heading 1 and use <code>######</code> for heading 6.</p>
 <h1 id="heading-1">Heading 1</h1>
 <h2 id="heading-2">Heading 2</h2>
@@ -457,11 +459,44 @@ raw Markdown line up prettily. You can also use inline Markdown.</p>
 </div>
 
 
+        </div>
       </div>
+    </div>
   </div>
-
 </div>
 
+<style>
+   
+  .section-heading {
+    font-size: 2rem;
+    color: #343a40;
+  }
+
+   
+  .meta-info {
+    font-size: 1rem;
+    color: #6c757d;
+  }
+
+  .meta-info i {
+    margin-right: 5px;
+  }
+
+   
+  .content {
+    font-size: 1rem;
+    line-height: 1.8;
+    color: #343a40;
+  }
+
+  .shadow-sm {
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  }
+
+  .rounded {
+    border-radius: 8px;
+  }
+</style>
 
 
 </main>

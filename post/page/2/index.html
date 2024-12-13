@@ -211,55 +211,148 @@ AUTHOR WEBSITE: https://themefisher.com
   <main style="min-height: 100vh; display: flex; flex-direction: column;">
     
 
-
-  <div class="section-sm">
-    <div class="container">
-      <div class="text-dark font-weight-500">
-        <h1>Posts</h1>
-      </div>
-      <div class="row no-gutters justify-content-center">
-        
-        
-        <div class="col-lg-12 mb-4">
+<div class="section-sm">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-md-9"> 
+        <div class="text-dark font-weight-500 mb-4 text-center">
+        </div>
+        <div class="row no-gutters justify-content-center">
           
-          <span>Feb 02, 2022</span>
-          <h4>
-            <a href="https://dr-you-group.github.io/post/yale_2022_02/" class="h3 d-block my-3">Publication in 2022: The Evolution of Evidence-Based Medicine</a>
-          </h4>
           
-          <p>The Evolution of Evidence-Based Medicine: When the Magic of the Randomized Clinical Trial Meets …&nbsp; <a class="text-dark" href="https://dr-you-group.github.io/post/yale_2022_02/">Read More</a></p>
+          <div class="col-lg-12 mb-4 p-3 shadow-sm bg-white rounded"> 
+            
+            <span class="text-muted small">Feb 02, 2022</span>
+            <h4 class="mt-2">
+              <a href="https://dr-you-group.github.io/post/yale_2022_02/" class="h4 d-block text-primary font-weight-bold">Publication in 2022: The Evolution of Evidence-Based Medicine</a>
+            </h4>
+            
+            <p class="text-secondary">The Evolution of Evidence-Based Medicine: When the Magic of the Randomized Clinical Trial Meets …<a class="text-dark font-italic" href="https://dr-you-group.github.io/post/yale_2022_02/">Read More &raquo;</a>
+            </p>
+          </div>
+          
+          <div class="col-lg-12 mb-4 p-3 shadow-sm bg-white rounded"> 
+            
+            <span class="text-muted small">Feb 01, 2022</span>
+            <h4 class="mt-2">
+              <a href="https://dr-you-group.github.io/post/interview_2022_01/" class="h4 d-block text-primary font-weight-bold">2022년 01월 연구원 인터뷰 보고서</a>
+            </h4>
+            
+            <p class="text-secondary">개요 2022년 1월 27,29일에 걸쳐 6인을 대상으로 첫 번째 인터뷰 실시. 처음 하는 인터뷰이고 질문자와 면식이 없는 점 등을 감안하여 일상적 대화 형식으로 진행.<a class="text-dark font-italic" href="https://dr-you-group.github.io/post/interview_2022_01/">Read More &raquo;</a>
+            </p>
+          </div>
           
         </div>
-        
-        <div class="col-lg-12 mb-4">
+        <hr>
+        <div class="pagination text-center mt-4">
           
-          <span>Feb 01, 2022</span>
-          <h4>
-            <a href="https://dr-you-group.github.io/post/interview_2022_01/" class="h3 d-block my-3">2022년 01월 연구원 인터뷰 보고서</a>
-          </h4>
+          <a href="/post/" class="btn btn-outline-primary mx-1">&laquo; Previous</a>
           
-          <p>개요 2022년 1월 27,29일에 걸쳐 6인을 대상으로 첫 번째 인터뷰 실시. 처음 하는 인터뷰이고 질문자와 면식이 없는 점 등을 감안하여 일상적 대화 형식으로 진행.&nbsp; <a class="text-dark" href="https://dr-you-group.github.io/post/interview_2022_01/">Read More</a></p>
+
+          
+          <a href="/post/" class="btn mx-1 btn-outline-secondary">1</a>
+          
+          <a href="/post/page/2/" class="btn mx-1 btn-primary">2</a>
+          
+
           
         </div>
-        
       </div>
-    <hr>
-    <div class="pagination">
-      
-      <a href="/post/" class="btn btn-primary">&laquo; Previous</a>
-      
-
-      
-      <a href="/post/" class="btn btn-secondary">1</a>
-      
-      <a href="/post/page/2/" class="btn btn-primary">2</a>
-      
-
-      
-    </div>
     </div>
   </div>
-  
+</div>
+
+<style>
+   
+  h1 {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #343a40;
+  }
+
+   
+  .text-muted {
+    font-size: 0.875rem;
+    color: #6c757d;
+  }
+
+   
+  h4 a {
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+
+  h4 a:hover {
+    color: #0056b3;
+  }
+
+   
+  .text-secondary {
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #6c757d;
+  }
+
+  .text-secondary a {
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+  }
+
+  .text-secondary a:hover {
+    color: #343a40;
+  }
+
+   
+  .shadow-sm {
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  }
+
+  .rounded {
+    border-radius: 8px;
+  }
+
+   
+  .pagination a {
+    margin: 0 5px;  
+    padding: 8px 16px;  
+    font-size: 1rem;  
+    border-radius: 4px;  
+    transition: all 0.3s ease;  
+  }
+
+  .btn-outline-primary {
+    border: 1px solid #0056b3;
+    color: #0056b3;
+  }
+
+  .btn-outline-primary:hover {
+    background-color: #0056b3;
+    color: #fff;
+  }
+
+  .btn-outline-secondary {
+    border: 1px solid #6c757d;
+    color: #6c757d;
+  }
+
+  .btn-outline-secondary:hover {
+    background-color: #6c757d;
+    color: #fff;
+  }
+
+  .btn-primary {
+    background-color: #0056b3;
+    color: #fff;
+    border: none;
+  }
+
+  .btn-primary:hover {
+    background-color: #004085;
+  }
+</style>
+
+
 </main>
 
   <footer class="section-sm" style="padding-top: 1rem; padding-bottom: 1rem;">
