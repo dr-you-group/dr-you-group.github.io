@@ -1,0 +1,7 @@
+# Restrict training/archival collection; ordinary search crawling is unchanged.
+# These voluntary rules do not revoke previously collected copies.
+User-agent: GPTBot
+User-agent: ClaudeBot
+User-agent: Google-Extended
+User-agent: CCBot
+Disallow: /
